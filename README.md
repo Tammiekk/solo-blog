@@ -10,6 +10,7 @@ Joseph的小屋
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.weki.vip/my-github-repos)
 * [世界，你好！](https://www.weki.vip/hello-solo)
 
 
